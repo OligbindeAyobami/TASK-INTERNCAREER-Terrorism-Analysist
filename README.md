@@ -3,6 +3,7 @@
 
 The world has in recent times witnessed different types of terrorist attacks, some leaving thousands dead, many more wounded and unbearable losses of properties.
 I carried out a terrorism analysis as a Powerbi developer intern at InternCareer  The primary aim of the analysis was to show the following
+
  🖇Terrorism trends, patterns, and its effects on lives and properties; numbers of attacks.
  
 🖇Various types of weapons used
